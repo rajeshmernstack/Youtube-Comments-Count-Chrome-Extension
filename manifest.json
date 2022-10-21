@@ -23,14 +23,7 @@
   },
   "options_page": "options.html",
   "permissions": [
-    "storage",
-    "activeTab",
-    "scripting",
-    "cookies",
-    "tabs",
-    "webNavigation",
-    "downloads",
-    "contextMenus"
+    "tabs"
   ],
   "host_permissions": ["http://*/*", "https://*/*"]
  
